@@ -1,11 +1,11 @@
 #Data gathered (also recevied from my fellow)
 
 Raw Data
-==
+----
 
 
 Personsonal details of a member
-----
+==
 
 
 Id
@@ -55,6 +55,57 @@ Languages - Speak, Write, Read
 Achievements
 
 Extra activities
+
+
+Address Details
+===
+
+City
+
+State
+
+Country
+
+Area
+
+Pin
+
+Address-lines
+
+
+Village Details
+==
+
+Village name
+
+Taluka and District
+
+Date added - Village membership
+
+
+Village Statastics
+========
+
+Date
+
+Details
+
+History
+
+
+Marriage & Relations
+===
+
+Sopuse
+
+
+Matrimony 
+==
+
+List of people
+
+
+
 
 
 
