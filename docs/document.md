@@ -3,12 +3,12 @@
 Raw Data
 ----
 
-
 Personsonal details of a member
 ==
 
+Family Identifier
 
-Id
+Record Id (Unique Record Identifer)
 
 Name
 
@@ -84,7 +84,7 @@ Date added - Village membership
 
 
 Village Statastics
-========
+==
 
 Date
 
@@ -103,6 +103,81 @@ Matrimony
 ==
 
 List of people
+
+Community
+==
+
+Community name
+
+Office or Premises
+
+WebSite
+
+Phone
+
+Contact Person
+
+Commuity Governing Body
+
+
+Activities 
+==
+
+Activities - Functions
+
+Fund raising activites
+
+Education Awareness activities
+
+Women Empowerment Activities
+
+Health and other services
+
+
+Samuh Lagna - Mass Marraige Functions 
+====
+
+Groom and bride registration records
+
+Marriage function Donar detail
+
+Expenditure records
+
+Mass Marriage gift records
+
+Mass Marriage committies 
+
+
+Education Programs 
+===========
+
+
+General Donar 
+======
+
+
+Student Loan (Help)
+===
+
+
+Family Loan (HElp)
+=====
+
+
+Business/occupation details of comunity members 
+=======
+
+Community Meetings  
+===
+
+Meetings
+
+Meeting Agenda
+
+
+
+
+
 
 
 
